@@ -9,6 +9,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/niteangel2/CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/niteangel2/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/niteangel2/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -26,6 +27,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/niteangel2/CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/niteangel2/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/niteangel2/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 ## Recursion
