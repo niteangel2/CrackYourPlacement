@@ -42,4 +42,9 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/niteangel2/CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0343-integer-break](https://github.com/niteangel2/CrackYourPlacement/tree/master/0343-integer-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/niteangel2/CrackYourPlacement/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
