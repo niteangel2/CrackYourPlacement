@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/niteangel2/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/niteangel2/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/niteangel2/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/niteangel2/CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/niteangel2/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/niteangel2/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +65,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteangel2/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/niteangel2/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/niteangel2/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
