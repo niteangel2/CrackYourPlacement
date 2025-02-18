@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteangel2/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/niteangel2/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,4 +71,16 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/niteangel2/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/niteangel2/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/niteangel2/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/niteangel2/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
